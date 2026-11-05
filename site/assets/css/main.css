@@ -483,20 +483,16 @@ textarea::placeholder {
   opacity: 1;
 }
 
-/* 홈 배경: 붉은 계열 */
+/* 홈 배경: 푸른 계열 */
 :root {
-  --home-bg: #fef2f2;
-  --home-text: #450a0a;
+  --home-bg: #eff6ff;
+  --home-text: #172554;
 }
 .dark {
-  --home-bg: #450a0a;
-  --home-text: #fee2e2;
+  --home-bg: #172554;
+  --home-text: #dbeafe;
 }
 
 
-body {
-  background-color: var(--home-bg) !important;
-  color: var(--home-text);
-}
 
 /* Custom CSS end */
