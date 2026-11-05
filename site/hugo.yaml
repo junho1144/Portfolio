@@ -1,5 +1,5 @@
 baseURL: 'https://junho1144.github.io/Portfolio/'
-title: junho
+title: junho portfolio
 locale: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -51,7 +51,7 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "JBNU student who loves developing game"
-  description: "This is portfolio of juunho."
+  description: "This is portfolio of junho."
   disable_theme_toggle: false
   newsletter_signup: false
 
@@ -82,7 +82,7 @@ params:
   p3:
     heading: "My Interests"
     content:
-      - text: "I do programming. And I also use github page."
+      - text: "I do programming. And I also use github."
     links:
       - text: My github
         url: "https://github.com/junho1144"
