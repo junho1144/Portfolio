@@ -80,12 +80,12 @@ params:
               - "Bullet point 5"
               - "Bullet point 6"
   p3:
-    heading: "Backed by world-renowned investors"
+    heading: "My Interests"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+      - text: "I do programming. And I also use github page."
     links:
-      - text: Meet our investors and advisors
-        url: "#"
+      - text: My github
+        url: "https://github.com/junho1144"
     logos:
       - identifier: a
         image: "images/global/sample-logo.svg"
