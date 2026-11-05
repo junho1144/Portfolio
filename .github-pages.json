@@ -1,0 +1,13 @@
+{
+  "config": "hugo.yaml,pages.json",
+  "theme": null,
+  "sample": ".",
+  "version": "0.167.0",
+  "slug": "tailbliss",
+  "npm": [],
+  "asset_build": [],
+  "generator": "3.1",
+  "repo": "https://github.com/junho1144/Portfolio.git",
+  "baseURL": "https://junho1144.github.io/Portfolio/",
+  "audited": false
+}
