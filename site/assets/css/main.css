@@ -483,4 +483,15 @@ textarea::placeholder {
   opacity: 1;
 }
 
+/* 홈 배경: 붉은 계열 */
+:root {
+  --home-bg: #fef2f2;
+  --home-text: #450a0a;
+}
+.dark {
+  --home-bg: #450a0a;
+  --home-text: #fee2e2;
+}
+
+
 /* Custom CSS end */
