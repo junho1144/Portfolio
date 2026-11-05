@@ -1,5 +1,5 @@
 baseURL: 'https://tailbliss.netlify.app/'
-title: TailBliss
+title: junho
 locale: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -50,8 +50,8 @@ params:
   author: Nusser Studios
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "game developer"
+  description: "Game design, programming"
   disable_theme_toggle: false
   newsletter_signup: true
 
