@@ -66,7 +66,7 @@ params:
     heading: "I am JBNU student."
     image: "images/pages/hacktoberfest.jpg"
     content:
-      - text: "I am JBNU student. JBNU is in jeonju, korea."
+      - text: "As an undergraduate student at Jeonbuk National University (JBNU) in Jeonju, I actively engage with the campus developer community, leading initiatives and study groups to foster shared growth."
       - type: "table"
         columns:
           - heading: "Column 1"
