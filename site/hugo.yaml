@@ -57,7 +57,7 @@ params:
 
   p1:
     heading: "Let me introduce"
-    image: "images/pages/our-mission.png"
+    image: "images/pages/monu.png"
     content:
       - text: "Game development is more than just a hobby for me, it is a creative outlet where I bring interactive ideas to life."
       - text: "I started developing games at the age of 12 using Scratch."
