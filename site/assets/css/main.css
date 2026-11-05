@@ -494,4 +494,9 @@ textarea::placeholder {
 }
 
 
+body {
+  background-color: var(--home-bg) !important;
+  color: var(--home-text);
+}
+
 /* Custom CSS end */
