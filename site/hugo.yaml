@@ -59,9 +59,9 @@ params:
     heading: "Let me introduce"
     image: "images/pages/our-mission.png"
     content:
-      - text: "I love developing game."
-      - text: "I start developing game at 12yo with Scratch."
-      - text: "I still develope games."
+      - text: "Game development is more than just a hobby for me, it is a creative outlet where I bring interactive ideas to life."
+      - text: "I started developing games at the age of 12 using Scratch."
+      - text: "Years later, that early curiosity has evolved into a dynamic skillset as I continue to design, program, and refine games using modern industry tools."
   p2:
     heading: "I am JBNU student."
     image: "images/pages/hacktoberfest.jpg"
