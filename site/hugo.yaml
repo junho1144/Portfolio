@@ -82,7 +82,7 @@ params:
   p3:
     heading: "My Interests"
     content:
-      - text: "I do programming. And I also use github."
+      - text: "I actively build software projects while maintaining clean version control practices on GitHub, utilizing systematic branching strategies, detailed commit logs, and documentation."
     links:
       - text: My github
         url: "https://github.com/junho1144"
