@@ -16,7 +16,7 @@ description: 게임 개발에 관심 있는 JBNU 학생 junho의 소개
 
 ## 목표
 
-- 목표: Unity로 게임 1개 완성하기
+- 목표: Unity로 3D 게임 완성하기
 
 ## 사용하는 도구와 사례
 
