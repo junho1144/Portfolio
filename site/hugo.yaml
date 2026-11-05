@@ -86,15 +86,7 @@ params:
     links:
       - text: My github
         url: "https://github.com/junho1144"
-    logos:
-      - identifier: a
-        image: 
-        alt: "a"
-      - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
+
   p4:
     heading: "About, Contact, Project"
     content:
